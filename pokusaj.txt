@@ -1,0 +1,4 @@
+italijanska;makarone;220.0;krempita;170.0
+srpska;gibanica;180.0;baklava;260.0
+italijanska;pica;360.0;sladoled;220.0
+srpska;proja;110.0;strudla;190.0
